@@ -7,3 +7,6 @@ Takes in a date and outputs the day of the week.
 Example:
 
 `./DayoftheWeek 02/17/2017`
+
+Output:
+'show the Monday'
